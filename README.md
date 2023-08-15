@@ -10,24 +10,28 @@ The dataset comprises sales data including Order ID & Date,	Ship Date,	Ship Mode
 
 
 Project Steps:
-
+---
 Data Preparation and Cleaning:
-  -I collected and organized the raw sales data, ensuring consistency in formatting for dates, numbers, and text. Next, I searched for and removed duplicates or any irrelevant entries to maintain data integrity.
-  -For this dataset, most of the data entries were accurate.
+
+  I collected and organized the raw sales data, ensuring consistency in formatting for dates, numbers, and text. Next, I searched for and removed duplicates or any irrelevant entries to maintain data integrity.
+  
+  
+  For this dataset, most of the data entries were accurate.
   
   
 Pivot Tables for Summary Analysis:
 
-  -I created Pivot Tables to analyze Total Sales and Total Profit of 2016 and 2017 - the latest years in the dataset. This helps to identify the percentage changes in sales and profit.
-  -Next, I created a Pivot Table to analyze Total Sales by Product and Year. This helps identify top-selling products and sales trends over time.
-  -I also used another Pivot Table to analyze Total Sales and Total Quantity of items by Quarters. This reveals clients and their purchasing patterns, if it is affected by season.
-  -Finally, I created a Pivot Table to analyze Total Sales and Total Quantity by States in the U.S.A. This provides This provides a geographical perspective on sales performance
-  -This comprehensive pivot table analysis empowers us to understand not only product and customer trends but also the impact of geographic location on sales within the U.S.A.
+  I created Pivot Tables to analyze Total Sales and Total Profit of 2016 and 2017 - the latest years in the dataset. This helps to identify the percentage changes in sales and profit.
+  Next, I created a Pivot Table to analyze Total Sales by Product and Year. This helps identify top-selling products and sales trends over time.
+  I also used another Pivot Table to analyze Total Sales and Total Quantity of items by Quarters. This reveals clients and their purchasing patterns, if it is affected by season.
+  Finally, I created a Pivot Table to analyze Total Sales and Total Quantity by States in the U.S.A. This provides This provides a geographical perspective on sales performance.
+  This comprehensive pivot table analysis empowers us to understand not only product and customer trends but also the impact of geographic location on sales within the U.S.A.
 
 
 Developing the Interactive Dashboard:
 
 In a new sheet, insert charts and interactive visuals using data from Pivot Tables:
+  
   -Begin by creating a new sheet dedicated to the dashboard.
   -Incorporate charts and visuals, leveraging the data extracted from Pivot Tables. Include the following components:
         A bar chart showcasing the distribution of sales across different products.
@@ -37,7 +41,7 @@ In a new sheet, insert charts and interactive visuals using data from Pivot Tabl
 
 Final Presentation:
 
-For better understanding, I created a User-Friendly Interface
+For better understanding, I created a User-Friendly Interface.
 I incorporated slicers (Category, Ship Mode, Segment) to create an interactive experience for users and/or potential clients.
 Next, I linked the slicers to update the dashboard visuals based on user selections, ensuring real-time insights.
 Then, I formatted the dashboard with green colour scheme, fonts and shapes. I added titles, labels, and descriptions to make the information clear and understandable.
